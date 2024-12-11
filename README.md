@@ -20,6 +20,8 @@ Used libraries:
 - GLAD
 - stb_image
 
+You can also play a (bit outdated) build of the game online, thanks to Emscripten: https://lbence-szixi.github.io/projects/raycaster/
+
 <br>
 
 # How to build
